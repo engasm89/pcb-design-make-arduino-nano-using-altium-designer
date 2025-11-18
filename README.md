@@ -54,19 +54,3 @@ gcc -Wall -Wextra -std=c11 *.c -o demo && ./demo
 
 Open `data/sample-telemetry.jsonl` to inspect representative console output. This is
 useful when validating your hardware wiring or cloud logging pipeline.
-
-## Additional Notes (Legacy Content)
-
-# PCB Design: Make Arduino Nano using Altium Designer
-
-- Course: PCB Design: Make Arduino Nano using Altium Designer
-- Author: Ashraf S A AlMadhoun
-- Link: https://www.udemy.com/course/pcb-design-altium-designer-make-arduino-nano-using-altium-designer/?couponCode=JULYMAXDICOUNT
-
-## Overview
-
-Recreate Arduino Nano design in Altium and produce manufacturing files.
-
-## Purchase With Discount
-
-Enroll using the link above to get a discounted price and design professional PCBs.
